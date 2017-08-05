@@ -32,7 +32,7 @@ var articles = {
     'article-three' : {
     title: 'Article Three | MA',
     heading: 'Article Three',
-    date: 'Aug 10, 2017',
+    date: 'Aug 15, 2017',
     content: `<p>
                     This is the content for my third article.
               </p>`

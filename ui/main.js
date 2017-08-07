@@ -6,6 +6,6 @@ element.innerHTML = 'New Value';
 
 //Move the image
 var img= document.getElementById('madi');
-img.onclick = function() {
+log.onclick = function() {
     img.style.marginLeft = '100px';
 };

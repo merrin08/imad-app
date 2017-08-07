@@ -8,4 +8,4 @@ element.innerHTML = 'New Value';
 var img= document.getElementById('madi')
 log.onClick = function() {
     img.style.marginLeft = '100px';
-}
+};

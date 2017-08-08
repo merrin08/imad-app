@@ -16,8 +16,12 @@ img.onclick = function() {
     //img.style.marginLeft = '100px';
 };*/
 
+
+
+
+
 //Counter code
-var button = document.getElementById ('Counter');
+var button = document.getElementById ('counter');
 var counter = 0;
 button.onclick = function() {
     

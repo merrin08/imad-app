@@ -43,6 +43,6 @@ button.onclick = function() {
     //make the request
     request.open('GET','http://merrinaabraham08.imad.hasura-app.io/counter',true);
     request.send(null);
-};
+
     
 };

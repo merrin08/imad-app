@@ -19,7 +19,7 @@ img.onclick = function() {
 //Counter code
 var button = document.getElementById ('Counter');
 var counter = 0;
-button.onClick = function() {
+button.onclick = function() {
     
     //Make a request to the counter endpoint
         
